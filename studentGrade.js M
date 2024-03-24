@@ -1,0 +1,5 @@
+function userGrade(userinput) {
+    let finalGrade= 'E';
+    if (userinput>=0 && userinput <49)
+     finalGrade = '
+}
